@@ -1,0 +1,70 @@
+<html>
+    <head>
+    </head>
+    <body>
+        <style>
+            highlight{
+                border:solid;
+            }
+            #profile{
+                border:solid;
+            }
+        </style>
+        <div>
+            <div id="profile">
+            </div>
+            <div class="highlight">
+            </div>
+            <div class="highlight">
+            </div>
+        </div>
+        <img src="https://img.choroc.com/newshop/goods/009179/009179_1.jpg"/>
+            <h2>설문조사 사이트</h2>
+            <div>
+            </div>
+        <p>
+            <strong>
+            세계 여러나라 음식들을 고르는 설문조사 사이트<br/>
+            먹고싶은 음식들을 선택해주세요.<br/>
+            더 많은 종류의 음식을 보고 싶으시면 아래의 링크에 들어가주세요.
+            </strong>
+        </p>
+        <p>
+            <a href="https://www.piku.co.kr/w/8PeAUT">
+                음식 월드컵
+            </a>
+        <p>
+            <input type="radio" />한식
+            <input type="radio"/>중식
+            <input type="radio" />양식
+            <input type="radio"  />일식
+        </p>
+        <p>
+            <input type="radio" />김치
+            <input type="radio"  />밥
+            <input type="radio" />불고기
+            <input type="radio"  />비빔밥
+        </p>
+        <p>
+            <input type="radio" />짜장면
+            <input type="radio" />짬뽕
+            <input type="radio"  />탕수육
+            <input type="radio"  />깐풍기
+            <input type="radio"  />마라탕
+        </p>
+        <p>
+            <input type="radio" />스테이크
+            <input type="radio"  />파스타
+            <input type="radio" />샐러드
+            <input type="radio" />피자
+            <input type="radio"  />치킨
+        </p>
+        <p>
+            <input type="radio" />초밥
+            <input type="radio" />돈까스
+            <input type="radio"  />오므라이스
+            <input type="radio"  />타코야키
+            <input type="radio"  />카레
+        </p>
+    </body>
+</html>
